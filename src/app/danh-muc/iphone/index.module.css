@@ -1,0 +1,719 @@
+.headerChild,
+.headerChild1,
+.headerChild2,
+.headerInner,
+.headerItem,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 1728px;
+  height: 97px;
+}
+.headerChild1,
+.headerChild2,
+.headerInner,
+.headerItem,
+.rectangleDiv {
+  width: 330px;
+}
+.headerChild1,
+.headerChild2,
+.headerInner,
+.rectangleDiv {
+  left: 350px;
+}
+.headerChild1,
+.headerChild2,
+.rectangleDiv {
+  left: 1050px;
+}
+.headerChild1,
+.headerChild2 {
+  left: 1400px;
+}
+.headerChild2 {
+  left: 700px;
+}
+.headerChild3,
+.headerChild4,
+.headerChild5,
+.headerChild6,
+.headerChild7,
+.headerChild8 {
+  position: absolute;
+  top: 94px;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 1728px;
+  height: 44px;
+}
+.headerChild4,
+.headerChild5,
+.headerChild6,
+.headerChild7,
+.headerChild8 {
+  width: 126px;
+}
+.headerChild5,
+.headerChild6,
+.headerChild7,
+.headerChild8 {
+  left: 146px;
+}
+.headerChild6,
+.headerChild7,
+.headerChild8 {
+  left: 291px;
+}
+.headerChild7,
+.headerChild8 {
+  left: 437px;
+}
+.headerChild8 {
+  left: 583px;
+}
+.headerChild10,
+.headerChild11,
+.headerChild12,
+.headerChild13,
+.headerChild14,
+.headerChild9 {
+  position: absolute;
+  top: 94px;
+  left: 728px;
+  background-color: #d9d9d9;
+  width: 126px;
+  height: 44px;
+}
+.headerChild10,
+.headerChild11,
+.headerChild12,
+.headerChild13,
+.headerChild14 {
+  left: 874px;
+}
+.headerChild11,
+.headerChild12,
+.headerChild13,
+.headerChild14 {
+  left: 1020px;
+}
+.headerChild12,
+.headerChild13,
+.headerChild14 {
+  left: 1165px;
+}
+.headerChild13,
+.headerChild14 {
+  left: 1311px;
+}
+.headerChild14 {
+  left: 1602px;
+}
+.iphone {
+  position: absolute;
+  top: 104px;
+  left: 44px;
+}
+.ipad,
+.mThanh,
+.mac,
+.phKin,
+.watch {
+  position: absolute;
+  top: 104px;
+  left: 197px;
+}
+.mThanh,
+.mac,
+.phKin,
+.watch {
+  left: 335px;
+}
+.mThanh,
+.mac,
+.phKin {
+  left: 488px;
+}
+.mThanh,
+.phKin {
+  left: 619px;
+}
+.phKin {
+  left: 767px;
+}
+.ngNhp,
+.sale,
+.thuC,
+.tinTc,
+.trGp {
+  position: absolute;
+  top: 104px;
+  left: 915px;
+}
+.ngNhp,
+.sale,
+.thuC,
+.tinTc {
+  left: 1063px;
+}
+.ngNhp,
+.sale,
+.tinTc {
+  left: 1215px;
+}
+.ngNhp,
+.tinTc {
+  left: 1354px;
+}
+.ngNhp {
+  left: 1565px;
+  text-align: center;
+}
+.headerChild15,
+.headerChild16,
+.headerChild17,
+.headerChild18,
+.headerChild19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 330px;
+  height: 94px;
+}
+.headerChild16,
+.headerChild17,
+.headerChild18,
+.headerChild19 {
+  left: 700px;
+}
+.headerChild17,
+.headerChild18,
+.headerChild19 {
+  left: 1050px;
+}
+.headerChild18,
+.headerChild19 {
+  left: 1400px;
+}
+.headerChild19 {
+  left: 350px;
+}
+.smartphoneStore {
+  position: absolute;
+  top: 32px;
+  left: 57px;
+  font-size: 25px;
+}
+.tmKimSn {
+  position: absolute;
+  left: 400px;
+}
+.hThngCa,
+.tmKimSn,
+.traCuBo {
+  top: 32px;
+  font-size: 25px;
+}
+.traCuBo {
+  position: absolute;
+  left: 762px;
+}
+.hThngCa {
+  left: 1102px;
+}
+.giHng,
+.hThngCa,
+.header {
+  position: absolute;
+}
+.giHng {
+  top: 32px;
+  left: 1511px;
+  font-size: 25px;
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 1730px;
+  height: 138px;
+}
+.frameChild,
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #9e9d9d;
+  width: 271px;
+  height: 124px;
+}
+.frameInner,
+.frameItem {
+  width: 417px;
+}
+.frameInner {
+  left: 1309px;
+}
+.giLmVic,
+.thanhTonVisa {
+  position: absolute;
+  top: 74px;
+  left: 955px;
+  font-weight: 200;
+  -webkit-text-stroke: 1px #000;
+  opacity: 0.5;
+}
+.thanhTonVisa {
+  left: 1363px;
+}
+.frameChild1 {
+  position: absolute;
+  top: 0;
+  left: 437px;
+  background-color: #9e9d9d;
+  width: 417px;
+  height: 124px;
+}
+.giaoHngTon,
+.hTrK,
+.thanhTonLinh,
+.thiGianI {
+  position: absolute;
+  top: 36px;
+  left: 571px;
+  font-weight: 200;
+  color: #fff;
+  -webkit-text-stroke: 2px #000;
+}
+.giaoHngTon,
+.hTrK,
+.thanhTonLinh {
+  left: 975px;
+}
+.giaoHngTon,
+.thanhTonLinh {
+  left: 1423px;
+}
+.giaoHngTon {
+  left: 113px;
+}
+.freeShipNi,
+.thiGianT {
+  position: absolute;
+  top: 74px;
+  left: 120px;
+  font-weight: 200;
+  -webkit-text-stroke: 1px #000;
+  opacity: 0.5;
+}
+.thiGianT {
+  left: 503px;
+}
+.frame {
+  position: absolute;
+  top: 673px;
+  left: 0;
+  background-color: #9e9d9d;
+  width: 1724px;
+  height: 124px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 20px;
+  color: #171717;
+}
+.khchHngCa {
+  position: absolute;
+  top: 37px;
+  left: 10px;
+  font-weight: 100;
+  text-shadow: 2px 0 0#f5f5f5, 0 2px 0#f5f5f5, -2px 0 0#f5f5f5, 0-2px 0#f5f5f5;
+}
+.frame1 {
+  position: absolute;
+  top: 804px;
+  left: 0;
+  background-color: #000;
+  width: 1724px;
+  height: 105px;
+  overflow: hidden;
+  font-size: 25px;
+  color: #fff;
+}
+.frameChild2,
+.frameChild3,
+.rectangleIcon {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 563px;
+  height: 524px;
+  object-fit: cover;
+}
+.frameChild2,
+.frameChild3 {
+  top: 0;
+  left: 583px;
+  width: 562px;
+}
+.frameChild3 {
+  left: 1162px;
+}
+.frameChild4,
+.frameChild5 {
+  position: absolute;
+  top: 539px;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 1724px;
+  height: 542px;
+}
+.frameChild5 {
+  top: 526px;
+  left: 4px;
+}
+.iphone15 {
+  position: absolute;
+  top: 564px;
+  left: 1373px;
+  font-weight: 100;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.frameChild6 {
+  position: absolute;
+  top: 539px;
+  left: 1530px;
+  background-color: #d9d9d9;
+  width: 198px;
+  height: 72px;
+}
+.frameChild10,
+.frameChild11,
+.frameChild7,
+.frameChild8,
+.frameChild9 {
+  position: absolute;
+  top: 535px;
+  left: 874px;
+  background-color: #d9d9d9;
+  width: 198px;
+  height: 76px;
+}
+.frameChild10,
+.frameChild11,
+.frameChild8,
+.frameChild9 {
+  left: 1530px;
+}
+.frameChild10,
+.frameChild11,
+.frameChild9 {
+  left: 1311px;
+}
+.frameChild10,
+.frameChild11 {
+  left: 1093px;
+}
+.frameChild11 {
+  top: 539px;
+  left: 4px;
+  background-color: #cac9c9;
+  width: 1724px;
+  height: 72px;
+}
+.frameChild12,
+.frameChild13,
+.frameChild14,
+.frameChild15,
+.frameChild16 {
+  position: absolute;
+  top: 539px;
+  left: 1526px;
+  background-color: #d9d9d9;
+  width: 198px;
+  height: 72px;
+}
+.frameChild13,
+.frameChild14,
+.frameChild15,
+.frameChild16 {
+  top: 537px;
+  left: 652px;
+}
+.frameChild14,
+.frameChild15,
+.frameChild16 {
+  left: 874px;
+}
+.frameChild15,
+.frameChild16 {
+  top: 539px;
+  left: 1093px;
+}
+.frameChild16 {
+  left: 1312px;
+}
+.iphone15Plus,
+.iphone15Pro,
+.iphone15Promax,
+.xemThm {
+  position: absolute;
+  top: 564px;
+  left: 681px;
+  font-weight: 100;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.iphone15Plus,
+.iphone15Pro,
+.xemThm {
+  left: 918px;
+}
+.iphone15Plus,
+.xemThm {
+  left: 1137px;
+}
+.xemThm {
+  left: 1570px;
+}
+.iphone15Series {
+  position: absolute;
+  top: 560px;
+  left: 23px;
+  font-size: 25px;
+}
+.frameChild17,
+.frameChild18,
+.frameChild19,
+.frameChild20,
+.frameChild21 {
+  position: absolute;
+  top: 609px;
+  left: 0;
+  width: 330px;
+  height: 471px;
+  object-fit: cover;
+}
+.frameChild18,
+.frameChild19,
+.frameChild20,
+.frameChild21 {
+  top: 611px;
+  left: 351px;
+}
+.frameChild19,
+.frameChild20,
+.frameChild21 {
+  left: 711px;
+}
+.frameChild20,
+.frameChild21 {
+  left: 1043px;
+}
+.frameChild21 {
+  top: 609px;
+  left: 1394px;
+}
+.frame2,
+.frameChild22 {
+  position: absolute;
+  left: 0;
+}
+.frame2 {
+  top: 923px;
+  width: 1729px;
+  height: 1081px;
+  overflow: hidden;
+}
+.frameChild22 {
+  top: 0;
+  background-color: #d9d9d9;
+  width: 1724px;
+  height: 542px;
+}
+.frameChild23 {
+  position: absolute;
+  top: 72px;
+  left: 1398px;
+  width: 329px;
+  height: 470px;
+  object-fit: cover;
+}
+.frameChild24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #cac9c9;
+  width: 1724px;
+  height: 72px;
+}
+.frameChild25,
+.frameChild26,
+.frameChild27,
+.frameChild28 {
+  position: absolute;
+  top: 0;
+  left: 1529px;
+  background-color: #d9d9d9;
+  width: 198px;
+  height: 72px;
+}
+.frameChild26,
+.frameChild27,
+.frameChild28 {
+  left: 1311px;
+}
+.frameChild27,
+.frameChild28 {
+  left: 1093px;
+}
+.frameChild28 {
+  left: 874px;
+}
+.iphone14Series {
+  position: absolute;
+  top: 21px;
+  left: 25px;
+  font-size: 25px;
+}
+.frameChild29 {
+  position: absolute;
+  top: 0;
+  left: 652px;
+  background-color: #d9d9d9;
+  width: 198px;
+  height: 72px;
+}
+.iphone14,
+.iphone14Plus,
+.iphone14Pro,
+.iphone14Promax,
+.xemThm1 {
+  position: absolute;
+  top: 27px;
+  left: 681px;
+  font-weight: 100;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.iphone14,
+.iphone14Plus,
+.iphone14Pro,
+.xemThm1 {
+  left: 903px;
+}
+.iphone14,
+.iphone14Plus,
+.xemThm1 {
+  left: 1137px;
+}
+.iphone14,
+.xemThm1 {
+  left: 1372px;
+}
+.xemThm1 {
+  left: 1587px;
+}
+.frameChild30 {
+  position: absolute;
+  top: 71px;
+  left: 0;
+  border-radius: 19px;
+  width: 330px;
+  height: 471px;
+  object-fit: cover;
+}
+.frameChild31,
+.frameChild32,
+.frameChild33 {
+  position: absolute;
+  top: 72px;
+  left: 350px;
+  width: 329px;
+  height: 470px;
+  object-fit: cover;
+}
+.frameChild32,
+.frameChild33 {
+  left: 699px;
+}
+.frameChild33 {
+  left: 1048px;
+}
+.frame3 {
+  top: 2020px;
+  width: 1727px;
+  height: 542px;
+  overflow: hidden;
+}
+.frame3,
+.frame4,
+.frameChild41 {
+  position: absolute;
+  left: 0;
+}
+.frameChild41 {
+  top: 71px;
+  width: 330px;
+  height: 471px;
+  object-fit: cover;
+}
+.frame4 {
+  top: 2578px;
+  width: 1727px;
+  height: 542px;
+  overflow: hidden;
+}
+.frame5,
+.phKinApple {
+  position: absolute;
+  top: 21px;
+  left: 25px;
+}
+.frame5 {
+  top: 3802px;
+  left: 0;
+  width: 1727px;
+  height: 542px;
+  overflow: hidden;
+  font-size: 25px;
+}
+.ipadAir,
+.ipadPro {
+  position: absolute;
+  top: 27px;
+  left: 937px;
+  font-weight: 100;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.ipadAir {
+  left: 1162px;
+}
+.frame6 {
+  position: absolute;
+  top: 3136px;
+  left: 0;
+  width: 1727px;
+  height: 542px;
+  overflow: hidden;
+}
+.logoSmarthphoneIcon {
+  position: absolute;
+  top: 5410px;
+  left: 330px;
+  width: 166px;
+  height: 91px;
+  object-fit: cover;
+}
+.index1 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 6170px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 15px;
+  color: #000;
+  font-family: Inter;
+}
